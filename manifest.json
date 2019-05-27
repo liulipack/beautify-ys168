@@ -3,7 +3,7 @@
   "description": "一个美化永硕168网盘 liuli壁纸包 仓库的浏览器扩展。",
   "manifest_version": 2,
   "name": "beautify-ys168",
-  "version": "0.2",
+  "version": "0.3",
   "homepage_url": "http://liulipack.ys168.com/",
   "icons": {
     "48": "icons/favicon.ico"
