@@ -1,3 +1,6 @@
+此项目暂停更新，您可以移步至 [油猴美化-永硕168](https://github.com/liulipack/TM-prettify-ys168) 仓库。  
+This project is in archive, you can go to the [TM-prettify-ys168](https://github.com/liulipack/TM-prettify-ys168) repository.
+
 # License
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc/3.0/cn/88x31.png)](https://creativecommons.org/licenses/by-nc/3.0/cn/deed.en)
 
